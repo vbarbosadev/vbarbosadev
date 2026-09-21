@@ -23,14 +23,24 @@ Currently, my main focus is on **Java**, the **Spring ecosystem**, backend devel
 
 ---
 
+## 🌐 Profiles
+
+[![GitHub](https://img.shields.io/badge/GitHub-vbarbosadev-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/vbarbosadev)
+
+[![GitLab](https://img.shields.io/badge/GitLab-vbarbosadev-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white)](https://gitlab.com/vbarbosadev)
+
 ## 🛠️ Technologies
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### AI
+
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
 
 ### Databases & Infrastructure
 
@@ -58,18 +68,15 @@ Software Engineering
 
 ## 📌 Projects
 
-### 🔹 [Tá na Lista API](https://github.com/vbarbosadev/tanalista-api)
+### 🔹 [Booking Service](https://github.com/vbarbosadev/sistema-de-reservas)
 
-Backend project focused on software engineering practices and API development.
+FullStack project focused on software engineering practices and project management.
 
-### 🔹 [AI Agentic Vector API](https://github.com/vbarbosadev/sbrc-ai-agentic-vector-api)
+### 🔹 [Booking Service - Distributed](https://github.com/imd-projeto-programacao-reativa)
 
-Project involving AI agents and agent-based architectures.
+Application developed as an academic project to explore **reactive programming** concepts, focusing on asynchronous data processing and the construction of responsive, event-driven distributed systems.
 
-### 🔹 [Smart Prison Contract Agent](https://github.com/vbarbosadev/agent-contratos-smart-prison)
-
-AI agent project focused on contract-related processing.
-
+<!--
 ---
 
 ## 📊 GitHub
@@ -83,6 +90,7 @@ AI agent project focused on contract-related processing.
 </div>
 
 ---
+-->
 
 <div align="center">
 
